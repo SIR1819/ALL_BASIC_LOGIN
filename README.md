@@ -2,7 +2,7 @@
 
 Este exemplo demonstra um login suportado por base de dados.
 
-Os acessos às Bases de Dados são efetuados com 
+Os acessos à Bases de Dados são efetuados com 
 
 * MySQLi
 * PDO
