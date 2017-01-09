@@ -11,7 +11,6 @@ e incluem a utilizaçao de
 
 * Prepared Statements com parâmetros *named* e *unnamed*
 
-
 ## Base de dados
 
 O exemplo pressupõe a existência uma base de dados MySQL
