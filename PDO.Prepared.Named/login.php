@@ -1,6 +1,5 @@
 <?php
 
-
 // iniciar sessoes
 session_start();
 
